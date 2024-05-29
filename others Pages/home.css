@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.slides_btn{
+    text-decoration: none;
+    color: #fff;
+}
+.slides_btn:hover{
+    color: #fff;
+}
+.logo{
+    height: 5vh;
+    border-radius: 10px;
+    margin-top: -6px;
+    padding: 0px 4px;
+}
+.part h1{
+    font-family: sans-serif;
+    font-size: xxx-large;
+}
+.part p{
+    text-align: justify;
+    font-size: larger;
+    font-style: italic;
+    font-family: -webkit-pictograph;
+    padding: 2px 33px;
+}
+.currNote h5{
+    text-align: center;
+    margin-top: 5px;
+    font-size: smaller;
+    font-family: monospace;
+}
+.currNote img{
+    text-align: center;
+    width: 73%;
+    margin: auto;
+    display: block;
+    margin-top: 36px;
+}
+.currpara{
+    max-width: 80vw;
+    display: block;
+    margin: auto;
+    margin-top: revert;
+}
+.currenybyyear{
+    margin: 22px 16px;
+}
+.currenybyyear p{
+    margin: auto;
+    max-width: 76%;
+    text-align: justify;
+    margin-top: 15px;
+    font-size: larger;
+    font-style: italic;
+    font-family: -webkit-pictograph;
+}
+.currenybyyear h3{
+    font-family: cursive;
+}
+.someimg{
+    max-width: 58%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+.someimg img{
+    width: 50%;
+    padding: 0px 13px;
+}
+.specialimg{
+    flex-direction: column;
+}
+.specialimg h5{
+    text-align: center;
+    margin-top: 5px;
+    font-size: smaller;
+    font-family: monospace;   
+}
+.specialimg img{
+    width: 49vw;
+}
+.futter{
+    max-width: 100%;
+    padding: 0px 46px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin: 4px;
+}
+.futter p{
+    margin: 6px 0px;
+}
+.galleries{
+    margin-left: 18vw;
+    max-width: 65%;
+    font-size: larger;
+    font-style: italic;
+    font-family: -webkit-pictograph;
+    /* text-align: justify; */
+}
+a:hover{
+    color: red;
+}

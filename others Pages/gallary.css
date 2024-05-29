@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container h1{
+    text-align: center;
+    font-size: 3.2rem;
+    font-family: cursive;
+}
+.cont h2{
+    font-family: monospace;
+    text-align: center;
+}
+.noteglry{
+    display: grid;
+    grid-gap: 0.6rem;
+    grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
+}
+.noteglry img{
+    width: 95%;
+    height: 83%;
+}
+.sepimg{
+    visibility: hidden;
+}
+
+/* coin currency part */
+
+.onepic{
+    width: 35%;
+    height: 100%;
+}
+.twopic{
+    width: 78%;
+    height: 90%;
+}
+.threepic{
+    width: 109%;
+    height: 100%;
+}
+.fourpic{
+    width: 146%;
+    height: 107%;
+}
+.coinglry{
+    max-width: 97%;
+    display: grid;
+    grid-gap: 2.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
+    justify-items: center;
+}
+.imgN{
+    padding: 31px 8vw;
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
+    justify-items: center;
+}
+.imgpart1{
+    width: 22vw;
+    height: 25vw;
+}
+.imgpart2{
+    width: 22vw;
+    height: 25vw;
+}
+.imgpart3{
+    width: 22vw;
+    height: 25vw;
+}
+.imgpart1 img{
+    width: 22vw;
+    height: 25vw;
+}
+.imgpart2 img{
+    width: 22vw;
+    height: 25vw;
+}
+.imgpart3 img{
+    width: 22vw;
+    height: 25vw;
+}

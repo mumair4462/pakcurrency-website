@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Curr_images{
+    max-width: 66%;
+    margin: auto;
+    margin-top: 3%;
+    padding: 35px 0px;
+}
+.Inner_curr_images{
+    padding: 20px 0px;
+}
+.Inner_curr_images img{
+    width: 35vw;
+    margin: auto;
+    display: block;
+    padding: 8px 0px;
+}
+.Inner_curr_images h5{
+    text-align: center;
+    margin-top: 5px;
+    margin-top: 5px;
+    font-size: 1.2rem;
+    font-family: monospace;   
+}
+.coincontainer{
+    max-width: 68vw;
+    margin: auto;
+}
+.spcialcoin{
+   
+}
+.spcialcoin h5{
+    text-align: center;
+    margin-top: 5px;
+    margin-top: 5px;
+    width: 30%;
+    margin: auto;
+    font-size: 1.2rem;
+    font-family: monospace; 
+}
+.h-coin{
+    max-width: fit-content;
+    margin: auto;
+    font-family: emoji;
+}
+.three-in-one{
+    width: 100%;
+    padding: 25px 0px;
+}
+.onepic{
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 25px 0px;
+}
+.twopic{
+    width: 67%;
+    display: block;
+    margin: auto;
+    padding: 25px 0px;
+}
+.spcialcoin img{
+    padding: 25px 0px 5px 0px;
+}
+
+
+ /* privace and terms section */
+
+ .title{
+    text-align: center;
+    font-family: none;
+ }
+ .cont h5{
+    text-align: justify;
+    font-size: 1.4rem;
+ }
+ .cont h6{
+    font-size: 1.1rem;
+    text-align: justify;
+ }
+ .cont h4{
+    margin-top: revert;
+    color: crimson;
+ }
+ .cont p{
+    text-align: justify;
+    max-width: 95%;
+    display: block;
+    margin: auto;
+ }
+
+  /* social medis icon */
+
+.facebook{
+    background: #084298;
+}
+.twitter{
+    background: #5196fd;
+}
+.Linkedin{
+    background: #2e6cc7;
+}
+.Whatsapp{
+    background: #13d47b;
+}
+.share img{
+    margin: 4px 1px;
+}
+
+/* comment's section */
+.write-comments{
+    display: flex;
+}
+.write-comm{
+    width: 100%;
+    max-width: 80%;
+    /* height: 33px; */
+    margin: auto;
+    display: block;
+}
+.btn-my{
+    height: fit-content;
+    align-self: center;
+}
+.comment-body{
+    /* border: 2px solid darkgray; */
+    margin: 14px 40px;
+}
+.comment-body li{
+    
+}
+.comment-body p{
+    /* text-align: center; */
+    color: red;
+}
+
+.error:focus{
+    box-shadow: 0 0 0 0.25rem rgb(225 83 97 / 50%);
+}
